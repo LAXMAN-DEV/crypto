@@ -84,4 +84,4 @@ b2=Button(root,text="Click to encrypt",command=enc_file) #button to encrypt the 
 b2.place(x=50,y=55)
 b3=Button(root,text="Click to decrypt",command=dec_file) #button to decrypt the file
 b3.place(x=50,y=95)
-root.mainloop() #root method to eun the event loop
+root.mainloop() #root method to run the event loop
